@@ -179,8 +179,8 @@ class App:
             print(response)
             # Output: "The weather today is sunny with a high of 75 degrees."
         """
-        openai.api_key = "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"
-        # openai.api_key = os.environ("OpenAI_Key")
+        # Use your API key
+        openai.api_key = os.environ("OpenAI_Key")
 
 
         model_response = str(openai.Completion.create(
