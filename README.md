@@ -5,4 +5,4 @@ I am currently developing a state-of-the-art, user-friendly graphical user inter
 
 
 
-![Example Image](/openai_gui/images/image1.png)
+![Example Image](images/image1.png)
